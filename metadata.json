@@ -1,0 +1,6 @@
+{
+  "name": "特快船牌驗眼及視力測驗證明書服務中心",
+  "description": "提供符合香港海事處標準的船長/遊樂船隻操作人特快視力及辨色測驗，合格即場獲發視力測驗證明書。尖沙咀加拿芬廣場中心鄰近地鐵，提供線上/WhatsApp特快預約。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
