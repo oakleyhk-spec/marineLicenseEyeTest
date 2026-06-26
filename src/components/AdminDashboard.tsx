@@ -28,7 +28,7 @@ export default function AdminDashboard() {
   const [editingNoteValue, setEditingNoteValue] = useState('');
 
   // Password for admin access
-  const ADMIN_PASSCODE = 'admin888';
+  const ADMIN_PASSCODE = 'mlet4Kenny';
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
@@ -180,7 +180,7 @@ export default function AdminDashboard() {
             <div>
               <input
                 type="password"
-                placeholder="請輸入後台密碼 (預設: admin888)"
+                placeholder="請輸入後台密碼"
                 value={passcode}
                 onChange={(e) => setPasscode(e.target.value)}
                 className="w-full px-4 py-3 bg-slate-50 border border-slate-200 focus:border-marine-500 rounded-xl text-center text-sm tracking-widest font-semibold focus:outline-none focus:ring-1 focus:ring-marine-500"
