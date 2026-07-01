@@ -859,6 +859,9 @@ export default function App() {
             </h2>
             <p className="text-xs md:text-sm text-slate-500 mt-2">
               為您詳細解答近視、辨色異常、二級與一級船長牌之官方要求，以及預約流程的各項細節。
+              <span className="block mt-2 text-[11px] md:text-xs text-slate-400 font-normal">
+                *本部分的常見問題,部分答案的資訊是由香港政府註冊第一部分視光師凌國嘉視光師提供
+              </span>
             </p>
           </div>
 
